@@ -1,6 +1,6 @@
 Latihan03
 
-# MENCARI NILAI RANDOM #
+# 1. MENCARI NILAI RANDOM #
 
 1.( inport random ) Fungsi ini akan mengembalikan bilangan float random , dimana fungsi random tidak memiliki parameter masukan.
  
@@ -39,7 +39,7 @@ while(jawab) :
  ![tugas001](https://user-images.githubusercontent.com/46951158/53285539-1e9ffe00-3794-11e9-8f1b-40f4848f302e.JPG)
  
  
- # MENCAR BILANGAN RANDOM #
+ # 2. MENCAR BILANGAN RANDOM #
  
  1. ( print("Masukan Bilangan Random,dan berhenti dalam angka 0")  ) untuk mencetak bilangan random dan berakhir di bilangna random 0
  
@@ -75,8 +75,11 @@ print('-----selesai-----')
  ```
  
  
+ ![latihan002](https://user-images.githubusercontent.com/46951158/53285541-1f389480-3794-11e9-98ad-c4df55f4736d.JPG)
  
- # Menghitung laba Perusahaan dengan modal Rp 100.000.000
+ 
+ 
+ # 3. Menghitung laba Perusahaan dengan modal Rp 100.000.000
  
  Algoritma
  
