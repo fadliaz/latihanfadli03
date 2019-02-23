@@ -125,3 +125,5 @@ print("\ntotal :",total)
  ```
  
  ![003](https://user-images.githubusercontent.com/46951158/53285540-1e9ffe00-3794-11e9-89d7-40fbc198536d.JPG)
+ ![latihan003](https://user-images.githubusercontent.com/46951158/53285542-1f389480-3794-11e9-809c-54c5344babe1.JPG)
+
