@@ -36,6 +36,8 @@ while(jawab) :
     jawab =input("-----Fhinis-----") 
  ```
  
+ ![tugas001](https://user-images.githubusercontent.com/46951158/53285539-1e9ffe00-3794-11e9-8f1b-40f4848f302e.JPG)
+ 
  
  # MENCAR BILANGAN RANDOM #
  
