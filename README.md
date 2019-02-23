@@ -124,4 +124,4 @@ total=a+b+c+c+d+d+d+e
 print("\ntotal :",total)
  ```
  
- 
+ ![003](https://user-images.githubusercontent.com/46951158/53285540-1e9ffe00-3794-11e9-89d7-40fbc198536d.JPG)
